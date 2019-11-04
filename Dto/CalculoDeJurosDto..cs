@@ -4,6 +4,6 @@ namespace CalculadoraDeJuros.Contratos.Dto
 {
     public class CalculoDeJurosDto : BaseError
     {
-        public decimal Valor { get; set; }
+        public decimal Resultado { get; set; }
     }
 }
